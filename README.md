@@ -30,7 +30,7 @@ This project provides a graphical user interface (GUI) for visualizing and inter
 ---
 
 ## Screenshot
-![SplayTree Visualization](/SplayedTree.png.png)  
+![SplayTree Visualization](/SplayedTree.png)  
 *Example of a SplayTree after inserting and splaying nodes.*
 
 3. **Using the GUI**:
